@@ -1,4 +1,4 @@
-# _Covid19 hospital management_
+# _Covid-19 hospital management_
 
 
 <!-- about us & view patient -->
